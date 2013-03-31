@@ -1,0 +1,7 @@
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\bin\Debug\lastShutdown.exe
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\bin\Debug\lastShutdown.pdb
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\obj\Debug\lastShutdown.Properties.Resources.resources
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\obj\Debug\lastShutdown.csproj.GenerateResource.Cache
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\obj\Debug\lastShutdown.exe
+C:\Users\moss\Documents\Visual Studio 2008\Projects\lastShutdown\lastShutdown\obj\Debug\lastShutdown.pdb
